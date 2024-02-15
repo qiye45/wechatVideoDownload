@@ -1,5 +1,5 @@
 # wechatVideoDownload
-微信视频号下载工具，自动监听微信视频号视频，支持自动下载视频，获取视频下载链接
+微信视频号下载工具，自动监听微信视频号视频，支持下载视频号视频、直播回放，支持获取视频下载链接
 
 ![1707906781198](https://github.com/qiye45/wechatVideoDownload/assets/138199658/f5fd09e6-6c84-47b8-808b-a402a4e4d40a)
 
