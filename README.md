@@ -1,9 +1,8 @@
 # 微信视频号下载工具
-微信视频号下载工具，支持下载视频号视频、直播回放，支持获取视频下载链接、自动监听微信视频号视频
+微信视频号下载工具，支持下载视频号视频、直播回放、直播流，支持获取视频下载链接、自动监听微信视频号视频
 
-2.0更新：支持获取视频标题，添加了下载进度条
-
-![image](https://github.com/qiye45/wechatVideoDownload/assets/138199658/7bf9c236-a88a-4db0-be3d-a24269d653d8)
+2.1更新：支持下载直播流，开启标题显示功能为可选；修复直播回放获取失败的问题
+![image](https://github.com/qiye45/wechatVideoDownload/assets/138199658/d6e1ae97-08c5-4b5e-8cfc-15f384e3cfeb)
 
 ![image](https://github.com/qiye45/wechatVideoDownload/assets/138199658/43b583c5-37bf-45e6-a844-ceabadaea7a8)
 
@@ -20,3 +19,7 @@
   
   b.手动下载视频：点击复制链接，使用下载工具下载到本地后，点击解密，选择下载好的视频
 ![image](https://github.com/qiye45/wechatVideoDownload/assets/138199658/a9211670-d729-4184-8692-b484a50eb8ae)
+
+## 更新日志：
+
+2.0 更新：支持获取视频标题，添加了下载进度条
