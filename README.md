@@ -6,7 +6,8 @@
 
 ![image](https://github.com/qiye45/wechatVideoDownload/assets/138199658/43b583c5-37bf-45e6-a844-ceabadaea7a8)
 
-如果需要开启视频标题显示，请打开缓存文件夹，安装`证书.p12`，教程：https://github.com/qiye45/wechatVideoDownload/issues/28#issuecomment-2178444661
+如果需要开启视频标题显示，先点击开启标题显示，请打开缓存文件夹，安装`证书.p12`，重启一下软件，提示开启成功后，可以显示标题啦
+教程：https://github.com/qiye45/wechatVideoDownload/issues/28#issuecomment-2178444661
 
 聊天群：https://t.me/changfengbox
 
