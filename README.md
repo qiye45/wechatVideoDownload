@@ -28,7 +28,7 @@
 
 1.点击"开启标题显示"按钮
 
-2.打开缓存文件夹，安装`证书.p12`，（双击证书，一路点确定）
+2.打开缓存文件夹，安装两个`证书.p12`，（双击证书，一路点确定）
 > 如果证书未生成，需手动打开mitmdump.exe后再试
 
 ![image](https://github.com/user-attachments/assets/f5c717bd-66ae-48ed-83b5-5f843d2a25fa)
