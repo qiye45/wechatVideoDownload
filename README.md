@@ -1,9 +1,9 @@
 # 微信视频号下载工具
 微信视频号下载工具，支持下载视频号视频、直播回放、直播，支持获取视频下载链接、自动监听微信视频号视频
 
-2.4更新：修复视频只能播放前几秒钟的问题；修复证书生成失败的问题
+2.5更新：支持直播下载MP4格式、支持关闭监听、分段录制功能，优化下载进度显示，修复下载失败的问题
 
-![image](https://github.com/user-attachments/assets/f90c016c-ee04-4385-aea5-4d0b713ab903)
+<img width="1097" height="956" alt="image" src="https://github.com/user-attachments/assets/74ab7925-d3ba-466b-9910-c76d1f522f38" />
 ![image](https://github.com/qiye45/wechatVideoDownload/assets/138199658/43b583c5-37bf-45e6-a844-ceabadaea7a8)
 
 欢迎关注公众号：长风的储物柜，获取最新更新消息🥳
@@ -38,6 +38,8 @@
 
 
 ## 更新日志：
+
+2.4更新：修复视频只能播放前几秒钟的问题；修复证书生成失败的问题
 
 2.3更新：支持微信4.0版本；支持直播暂停录制功能；优化开启标题显示功能
 
