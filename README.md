@@ -4,6 +4,7 @@
 2.5更新：支持直播下载MP4格式、支持关闭监听、分段录制、暗黑模式功能，优化下载进度显示，修复下载失败的问题
 
 <img width="1150" height="998" alt="image" src="https://github.com/user-attachments/assets/6dd9e498-84dc-4c62-8560-4e5ae165da43" />
+
 ![image](https://github.com/qiye45/wechatVideoDownload/assets/138199658/43b583c5-37bf-45e6-a844-ceabadaea7a8)
 
 欢迎关注公众号：长风的储物柜，获取最新更新消息🥳
