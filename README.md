@@ -1,9 +1,9 @@
 # 微信视频号下载工具
 微信视频号下载工具，支持下载视频号视频、直播回放、直播，支持获取视频下载链接、自动监听微信视频号视频
 
-2.5更新：支持直播下载MP4格式、支持关闭监听、分段录制、暗黑模式功能，优化下载进度显示，修复下载失败的问题
+2.6 支持下载图片格式视频号；修复多个直播不显示、同时下载多个视频、视频文件过大下载失败的问题；界面下载状态宽度调整
 
-<img width="1150" height="998" alt="image" src="https://github.com/user-attachments/assets/6dd9e498-84dc-4c62-8560-4e5ae165da43" />
+<img width="1160" height="1006" alt="image_2026-01-03_17-11-58" src="https://github.com/user-attachments/assets/452f093b-4061-4859-b6bd-3fb807973d84" />
 
 ![image](https://github.com/qiye45/wechatVideoDownload/assets/138199658/43b583c5-37bf-45e6-a844-ceabadaea7a8)
 
@@ -39,6 +39,8 @@
 
 
 ## 更新日志：
+
+2.5更新：支持直播下载MP4格式、支持关闭监听、分段录制、暗黑模式功能，优化下载进度显示，修复下载失败的问题
 
 2.4更新：修复视频只能播放前几秒钟的问题；修复证书生成失败的问题
 
