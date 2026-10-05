@@ -36,7 +36,9 @@
 ![image](https://github.com/user-attachments/assets/80975841-dde3-4e05-a5d8-4c2bf0db0f9b)
 
 
+## ⚠️ 免责声明
 
+> 本软件仅供学习与研究用途，禁止用于任何商业或违法用途。如因此产生的任何法律责任，概与作者无关！
 
 ## 更新日志：
 
